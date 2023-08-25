@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasminerliu
 - 👀 I’m love coding, and I am especially interested in machine learning!
-- 🌱 I’m currently a senior at Central Bucks High School South
-- 📫 How to reach me: email me @jasmine.r.liu@gmail.com
+- 🌱 I’m currently a computer science student at the University of Illinois Urbana-Champaign.
+- 📫 How to reach me: email me @jrliu2@illinois.edu
 
